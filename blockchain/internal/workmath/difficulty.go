@@ -7,7 +7,7 @@ package workmath
 import (
 	"math/big"
 
-	"github.com/midl-xyz/btcd/chaincfg/chainhash"
+	"github.com/btcsuite/btcd/chaincfg/chainhash"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/wire"
 )
 
 // TestPushedData ensured the PushedData function extracts the expected data out

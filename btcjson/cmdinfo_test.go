@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/midl-xyz/btcd/btcjson"
+	"github.com/btcsuite/btcd/btcjson"
 )
 
 // TestCmdMethod tests the CmdMethod function to ensure it returns the expected

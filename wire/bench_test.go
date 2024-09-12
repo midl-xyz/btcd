@@ -14,7 +14,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/midl-xyz/btcd/chaincfg/chainhash"
+	"github.com/btcsuite/btcd/chaincfg/chainhash"
 )
 
 // genesisCoinbaseTx is the coinbase transaction for the genesis blocks for

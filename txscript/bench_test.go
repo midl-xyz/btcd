@@ -10,8 +10,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/midl-xyz/btcd/chaincfg"
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/btcsuite/btcd/wire"
 )
 
 var (

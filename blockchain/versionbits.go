@@ -5,7 +5,7 @@
 package blockchain
 
 import (
-	"github.com/midl-xyz/btcd/chaincfg"
+	"github.com/btcsuite/btcd/chaincfg"
 )
 
 const (

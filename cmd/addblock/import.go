@@ -11,12 +11,12 @@ import (
 	"sync"
 	"time"
 
-	"github.com/midl-xyz/btcd/blockchain"
-	"github.com/midl-xyz/btcd/blockchain/indexers"
-	"github.com/midl-xyz/btcd/btcutil"
-	"github.com/midl-xyz/btcd/chaincfg/chainhash"
-	"github.com/midl-xyz/btcd/database"
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/blockchain"
+	"github.com/btcsuite/btcd/blockchain/indexers"
+	"github.com/btcsuite/btcd/btcutil"
+	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/btcsuite/btcd/database"
+	"github.com/btcsuite/btcd/wire"
 )
 
 var zeroHash = chainhash.Hash{}

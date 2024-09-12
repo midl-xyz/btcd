@@ -7,9 +7,9 @@ package txscript
 import (
 	"testing"
 
-	"github.com/midl-xyz/btcd/btcec/v2"
-	"github.com/midl-xyz/btcd/btcec/v2/schnorr"
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/btcec/v2"
+	"github.com/btcsuite/btcd/btcec/v2/schnorr"
+	"github.com/btcsuite/btcd/wire"
 	"github.com/stretchr/testify/require"
 )
 

@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/midl-xyz/btcd/chaincfg/chainhash"
+	"github.com/btcsuite/btcd/chaincfg/chainhash"
 )
 
 // MaxBlockLocatorsPerMsg is the maximum number of block locator hashes allowed

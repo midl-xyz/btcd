@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/midl-xyz/btcd/chaincfg/chainhash"
+	"github.com/btcsuite/btcd/chaincfg/chainhash"
 )
 
 const (

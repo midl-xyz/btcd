@@ -5,11 +5,11 @@ import (
 	"math"
 	"runtime"
 
-	"github.com/midl-xyz/btcd/blockchain/internal/workmath"
-	"github.com/midl-xyz/btcd/btcutil"
-	"github.com/midl-xyz/btcd/chaincfg/chainhash"
-	"github.com/midl-xyz/btcd/txscript"
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/blockchain/internal/workmath"
+	"github.com/btcsuite/btcd/btcutil"
+	"github.com/btcsuite/btcd/chaincfg/chainhash"
+	"github.com/btcsuite/btcd/txscript"
+	"github.com/btcsuite/btcd/wire"
 )
 
 var (

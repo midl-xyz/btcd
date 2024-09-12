@@ -6,13 +6,13 @@ package integration
 import (
 	"testing"
 
-	"github.com/midl-xyz/btcd/btcjson"
-	"github.com/midl-xyz/btcd/btcutil"
-	"github.com/midl-xyz/btcd/chaincfg"
-	"github.com/midl-xyz/btcd/integration/rpctest"
-	"github.com/midl-xyz/btcd/rpcclient"
-	"github.com/midl-xyz/btcd/txscript"
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/btcjson"
+	"github.com/btcsuite/btcd/btcutil"
+	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/btcsuite/btcd/integration/rpctest"
+	"github.com/btcsuite/btcd/rpcclient"
+	"github.com/btcsuite/btcd/txscript"
+	"github.com/btcsuite/btcd/wire"
 	"github.com/stretchr/testify/require"
 )
 

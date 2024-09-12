@@ -10,10 +10,10 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/btcsuite/btcd/btcjson"
+	"github.com/btcsuite/btcd/btcutil"
+	"github.com/btcsuite/btcd/chaincfg/chainhash"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/midl-xyz/btcd/btcjson"
-	"github.com/midl-xyz/btcd/btcutil"
-	"github.com/midl-xyz/btcd/chaincfg/chainhash"
 )
 
 // TestChainSvrCustomResults ensures any results that have custom marshalling

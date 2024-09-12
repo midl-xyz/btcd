@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/wire"
 )
 
 // KnownAddress tracks information about a known network address that is used

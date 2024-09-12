@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/midl-xyz/btcd/wire"
+	"github.com/btcsuite/btcd/wire"
 )
 
 // BTCPerkvB is the units used to represent Bitcoin transaction fees.
