@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcjson"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/integration/rpctest"
+	"github.com/midl-xyz/btcd/btcjson"
+	"github.com/midl-xyz/btcd/btcutil"
+	"github.com/midl-xyz/btcd/chaincfg"
+	"github.com/midl-xyz/btcd/integration/rpctest"
 	"github.com/stretchr/testify/require"
 )
 

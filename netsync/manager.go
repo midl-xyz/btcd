@@ -12,14 +12,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/mempool"
-	peerpkg "github.com/btcsuite/btcd/peer"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/midl-xyz/btcd/blockchain"
+	"github.com/midl-xyz/btcd/btcutil"
+	"github.com/midl-xyz/btcd/chaincfg"
+	"github.com/midl-xyz/btcd/chaincfg/chainhash"
+	"github.com/midl-xyz/btcd/database"
+	"github.com/midl-xyz/btcd/mempool"
+	peerpkg "github.com/midl-xyz/btcd/peer"
+	"github.com/midl-xyz/btcd/wire"
 )
 
 const (

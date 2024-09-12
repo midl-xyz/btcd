@@ -5,14 +5,14 @@
 package main
 
 import (
-	"os"
 	"log"
+	"os"
 	"path/filepath"
 	"time"
 
-	"github.com/btcsuite/btcd/btcutil"
-	"github.com/btcsuite/btcd/rpcclient"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/midl-xyz/btcd/btcutil"
+	"github.com/midl-xyz/btcd/rpcclient"
+	"github.com/midl-xyz/btcd/wire"
 )
 
 func main() {

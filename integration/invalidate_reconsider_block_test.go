@@ -3,8 +3,8 @@ package integration
 import (
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/integration/rpctest"
+	"github.com/midl-xyz/btcd/chaincfg"
+	"github.com/midl-xyz/btcd/integration/rpctest"
 )
 
 func TestInvalidateAndReconsiderBlock(t *testing.T) {
